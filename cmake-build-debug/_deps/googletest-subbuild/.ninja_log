@@ -1,0 +1,21 @@
+# ninja log v6
+0	4	1727527413571972540	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	f3ca73ceac12cc6f
+0	4	1727527413571972540	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	f3ca73ceac12cc6f
+5	1844	1727527415411972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d2bc70806218fc37
+5	1844	1727527415411972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d2bc70806218fc37
+1844	1848	1727527415415972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a59d63cf7934d52c
+1844	1848	1727527415415972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a59d63cf7934d52c
+1848	1851	1727527415419972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	24c178abab774607
+1848	1851	1727527415419972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	24c178abab774607
+1851	1854	1727527415423972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	af3262b8d27c7e82
+1851	1854	1727527415423972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	af3262b8d27c7e82
+1854	1858	1727527415423972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ff6f5655354de18c
+1854	1858	1727527415423972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ff6f5655354de18c
+1858	1861	1727527415427972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e0a18ec5c3a6a292
+1858	1861	1727527415427972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e0a18ec5c3a6a292
+1861	1865	1727527415431972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	caf99a6e4e891470
+1861	1865	1727527415431972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	caf99a6e4e891470
+1865	1869	1727527415435972502	CMakeFiles/googletest-populate-complete	16dc57eeb6c2536f
+1865	1869	1727527415435972502	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	16dc57eeb6c2536f
+1865	1869	1727527415435972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	16dc57eeb6c2536f
+1865	1869	1727527415435972502	/home/user/Документы/GitHub/Triangles/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	16dc57eeb6c2536f

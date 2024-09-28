@@ -20,14 +20,10 @@ enable_testing()
 add_library(Lib SHARED src/PerfectCache.cc)
 
 add_executable(TESTS src/TESTS.cc)
-add_executable(LFUMAIN src/LFUMain.cc)
-add_executable(PERFECTMAIN src/PerfectCacheMain.cc)
+add_executable(TRIANGLES src/LFUMain.cc)
 
 target_include_directories(TESTS PUBLIC include/)
-target_include_directories(LFUMAIN PUBLIC include/)
-
-target_include_directories(PERFECTMAIN PUBLIC include/)
-target_include_directories(Lib PUBLIC include/)
+target_include_directories(TRIANGLES PUBLIC include/)
 
 target_link_libraries(TESTS GTest::gtest_main Lib)
 target_link_libraries(PERFECTMAIN Lib)
